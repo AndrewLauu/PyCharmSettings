@@ -1,0 +1,113 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsCSS</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyAugmentAssignmentInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="226-226-226-255,,,211-0-0-255,,,58-10-65-255,,,43-43-43-255,,,171-97-164-255,,,90-148-18-255,,,201-118-194-255,,,255-151-247-255,,,191-187-156-255,,,189-184-152-255,,,96-167-57-255,,,203-83-255-255,,,71-44-71-255,,,89-116-171-255,,,91-91-129-255,,,98-31-117-255" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.66027397" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="SQLite" />
+    <property name="Darcula.savedEditorTheme" value="Monokai-cus" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileChooser.ShowPath" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="INSPECTION_FILTER_HISTORY" value="todo&#10;vari&#10;low" />
+    <property name="KEYMAP" value="extend&#10;close&#10;font&#10;complete&#10;replace" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesIpnbPython" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPython" value="false" />
+    <property name="OpenOrAttachDialog.OpenMode" value="replace" />
+    <property name="PACKAGE_FILTER" value="numpy&#10;xlrd&#10;collection&#10;emoji&#10;pysqlcip" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.26593137" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="SearchEveryWhereHistory" value="inspect&#10;th&#10;'&#10;dir&#10;memory in" />
+    <property name="SettingsSearchHistory" value="import&#10;inspect&#10;todo&#10;inspe&#10;inspec" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.6627497" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.docker.view.DockerViewContribution.0" value="300" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.182" value="10" />
+    <property name="evlsprt3.183" value="16" />
+    <property name="file.chooser.recent.files" value="E:/Users/acer/Documents/Code/Python/wechat_analyse&#10;E:/Users/acer/Documents/文档/学习/编程素材/Python/Markdown.ImageHost&#10;E:/Users/acer/Documents/文档/学习/编程素材/Python/TheEconomist/CrawGithub.py&#10;E:/Users/acer/Documents/文档/学习/编程素材/Python/Code Lib/Multi-thread downloading.py&#10;E:/Users/acer/Documents/文档/学习/编程素材/Python/TheEconomist&#10;E:/Users/acer/Documents/文档/学习/编程素材/Python/wechat_analyse/ProjectIcon.png&#10;E:/Users/acer/Pictures/素材/山财/LOGO/图片1.png&#10;C:/Users/acer/Desktop&#10;E:/Users/acer/Documents/文档/学习/编程素材/Python&#10;D:/Program Files/python/python37/Lib/site-packages&#10;D:/Program Files/Python35/Lib/site-packages&#10;D:/Program Files/Python35/python.exe" />
+    <property name="file.gist.reindex.count" value="41226" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="lastTip" value="3" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="" />
+    <property name="run.configuration.alternate.action.ad" value="true" />
+    <property name="run.configuration.delete.ad" value="true" />
+    <property name="run.configuration.edit.ad" value="true" />
+    <property name="selected.color.option.type" value="TODO_DEFAULT_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.Python" value="Other" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.5276653" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="SHOW_IMPORT_POPUP" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="D:\Program Files\Python35\python.exe" value="false" />
+        <entry key="D:\Program Files\python\python37\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="D:\Program Files\Python35\python.exe" value="false" />
+        <entry key="D:\Program Files\python\python37\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="D:\Program Files\Python35\python.exe" value="false" />
+        <entry key="D:\Program Files\python\python37\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
