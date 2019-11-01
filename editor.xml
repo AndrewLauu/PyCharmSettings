@@ -1,6 +1,8 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="19" />
+    <option name="FONT_SIZE" value="20" />
+    <option name="FONT_FAMILY" value="XHei Solid Mono" />
+    <option name="LINE_SPACING" value="1.1" />
   </component>
   <component name="EditorSettings">
     <option name="IS_CAMEL_WORDS" value="true" />
