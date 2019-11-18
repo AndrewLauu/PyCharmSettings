@@ -1,12 +1,15 @@
 <code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="95" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <Python>
     <option name="SPACE_AFTER_PY_COLON" value="false" />
     <option name="DICT_ALIGNMENT" value="2" />
     <option name="HANG_CLOSING_BRACKETS" value="true" />
   </Python>
   <codeStyleSettings language="Python">
-    <option name="RIGHT_MARGIN" value="120" />
+    <option name="RIGHT_MARGIN" value="95" />
     <option name="WRAP_LONG_LINES" value="true" />
+    <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
       <option name="SMART_TABS" value="true" />
     </indentOptions>
